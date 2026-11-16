@@ -1,0 +1,60 @@
+event_id,release_family,release_date,event_models,model_count
+claude_20230314,Claude,2023-03-14,Claude,1
+claude_20230418,Claude,2023-04-18,Claude 1.3,1
+claude_20230711,Claude,2023-07-11,Claude 2,1
+claude_20230809,Claude,2023-08-09,Claude Instant,1
+claude_20231121,Claude,2023-11-21,Claude 2.1,1
+claude_20240304,Claude,2024-03-04,Claude 3 Haiku | Claude 3 Sonnet | Claude 3 Opus,3
+claude_20240620,Claude,2024-06-20,Claude 3.5 Sonnet,1
+claude_20241022,Claude,2024-10-22,Claude 3.5 Haiku,1
+claude_20250224,Claude,2025-02-24,Claude 3.7 Sonnet,1
+claude_20250522,Claude,2025-05-22,Claude Opus 4 | Claude Sonnet 4,2
+claude_20250805,Claude,2025-08-05,Claude Opus 4.1,1
+claude_20250929,Claude,2025-09-29,Claude Sonnet 4.5,1
+claude_20251015,Claude,2025-10-15,Claude Haiku 4.5,1
+claude_20251124,Claude,2025-11-24,Claude Opus 4.5,1
+deepseek_20240105,DeepSeek,2024-01-05,DeepSeek LLM 67B | DeepSeek LLM 7B,2
+deepseek_20240111,DeepSeek,2024-01-11,DeepSeekMoE-16B,1
+deepseek_20240507,DeepSeek,2024-05-07,DeepSeek-V2 (MoE-236B),1
+deepseek_20240906,DeepSeek,2024-09-06,DeepSeek-V2.5,1
+deepseek_20241120,DeepSeek,2024-11-20,DeepSeek-R1-Lite-Preview,1
+deepseek_20241224,DeepSeek,2024-12-24,DeepSeek-V3,1
+deepseek_20250120,DeepSeek,2025-01-20,DeepSeek-R1,1
+deepseek_20250324,DeepSeek,2025-03-24,DeepSeek-V3 (Mar 2025),1
+deepseek_20250528,DeepSeek,2025-05-28,DeepSeek-R1 (May 2025),1
+deepseek_20250821,DeepSeek,2025-08-21,DeepSeek-V3.1,1
+deepseek_20250922,DeepSeek,2025-09-22,DeepSeek-V3.1-Terminus,1
+deepseek_20250929,DeepSeek,2025-09-29,DeepSeek-V3.2-Exp,1
+deepseek_20251201,DeepSeek,2025-12-01,DeepSeek-V3.2,1
+gpt_20230314,GPT,2023-03-14,GPT-4 (Mar 2023),1
+gpt_20230613,GPT,2023-06-13,GPT-4 (Jun 2023) | GPT-3.5 Turbo,2
+gpt_20230925,GPT,2023-09-25,GPT-4V,1
+gpt_20230928,GPT,2023-09-28,GPT-3.5 Turbo Instruct,1
+gpt_20231106,GPT,2023-11-06,GPT-4 Turbo (Nov 2023),1
+gpt_20240409,GPT,2024-04-09,GPT-4 Turbo (Apr 2024),1
+gpt_20240513,GPT,2024-05-13,GPT-4o,1
+gpt_20240718,GPT,2024-07-18,GPT-4o mini,1
+gpt_20240806,GPT,2024-08-06,GPT-4o (Aug 2024),1
+gpt_20240912,GPT,2024-09-12,o1-mini | o1-preview,2
+gpt_20241120,GPT,2024-11-20,GPT-4o (Nov 2024),1
+gpt_20241205,GPT,2024-12-05,o1,1
+gpt_20250129,GPT,2025-01-29,GPT-4o (Jan 2025),1
+gpt_20250131,GPT,2025-01-31,o3-mini,1
+gpt_20250227,GPT,2025-02-27,GPT-4.5,1
+gpt_20250319,GPT,2025-03-19,o1-pro,1
+gpt_20250327,GPT,2025-03-27,GPT-4o (Mar 2025),1
+gpt_20250414,GPT,2025-04-14,GPT-4.1 | GPT-4.1 mini | GPT-4.1 nano,3
+gpt_20250416,GPT,2025-04-16,o4-mini | o3,2
+gpt_20250610,GPT,2025-06-10,o3-pro,1
+gpt_20250805,GPT,2025-08-05,gpt-oss-120b | gpt-oss-20b,2
+gpt_20250807,GPT,2025-08-07,GPT-5 | GPT-5 mini | GPT-5 nano,3
+gpt_20251007,GPT,2025-10-07,GPT-5 Pro,1
+gpt_20251113,GPT,2025-11-13,GPT-5.1 | GPT-5.1 Instant,2
+gpt_20251211,GPT,2025-12-11,GPT-5.2 | GPT-5.2 Pro,2
+llama_20230224,Llama,2023-02-24,LLaMA-13B | LLaMA-33B | LLaMA-65B | LLaMA-7B,4
+llama_20230718,Llama,2023-07-18,Llama 2-70B | Llama 2-7B | Llama 2-13B,3
+llama_20240418,Llama,2024-04-18,Llama 3-70B | Llama 3-8B,2
+llama_20240723,Llama,2024-07-23,Llama 3.1-405B | Llama 3.1-70B | Llama 3.1-8B,3
+llama_20240924,Llama,2024-09-24,Llama 3.2 11B | Llama 3.2 90B | Llama 3.2 1B | Llama 3.2 3B,4
+llama_20241206,Llama,2024-12-06,Llama 3.3 70B,1
+llama_20250405,Llama,2025-04-05,Llama 4 Scout | Llama 4 Maverick,2
